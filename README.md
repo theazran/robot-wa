@@ -33,7 +33,7 @@ After scan barcode whatsapp, you can start message with following command : !men
 
 #### Menu
 <pre>
-    -- AEX BOT WHATSAPP
+    -- ZRN BOT WHATSAPP
 
     Group Command:
 
